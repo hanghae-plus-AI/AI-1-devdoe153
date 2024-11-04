@@ -173,12 +173,9 @@ def main():
             display_pdf_page(image_paths[page_number - 1], page_number)
             
 
-def display_pdf_page(image_path: str, page_number: int) -> None:
-    image_bytes = open(image_path, "rb").read() # 파일에서 이미지 인식
-    st.image(image_bytes, caption=f"페이지 {page_number}", output_format="PNG", width=600)
-
 def natural_sort_key(s: str) -> List[int]:
     return [int(text) if text.isdigit() else text for text in re.split(r'(\d+)', s)]
+
 if __name__ == "__main__":
     main()
 
