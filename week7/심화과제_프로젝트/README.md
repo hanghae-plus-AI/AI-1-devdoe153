@@ -1,12 +1,13 @@
-<<<<<<< HEAD
-# house_subs
 
+# house_subs
 
 ```
 # 주택청약 참고 pdf
 https://www.molit.go.kr/USR/policyData/m_34681/dtl.jsp?search=&srch_dept_nm=&srch_dept_id=&srch_usr_nm=&srch_usr_titl=Y&srch_usr_ctnt=&search_regdate_s=&search_regdate_e=&psize=10&s_category=&p_category=&lcmspage=1&id=4765
-=======
-# matjib-recomm
+```
 
-- 심화과제는 완료하지 못하여 개인적으로 공부하면서 하고 있는 프로젝트를 업로드 하였습니다.
->>>>>>> 111bc565308536f338f1e1fc135cac38312e3236
+
+심화과제 시연 영상
+
+https://github.com/user-attachments/assets/f1c20a3f-644b-4874-92b1-ecdeb2d05e42
+
