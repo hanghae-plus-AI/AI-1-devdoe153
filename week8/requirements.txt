@@ -1,0 +1,9 @@
+datasets
+bitsandbytes
+accelerate
+peft
+trl
+wandb
+setuptools
+torch
+bitsandbytes
